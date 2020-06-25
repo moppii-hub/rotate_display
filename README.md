@@ -1,7 +1,7 @@
 # About
 This is a stand which can rotate for display something.  
 Used an Arduino, a step-motor, and a motor-driver board(UNL2003A).  
-![Appearance](https://github.com/moppii-hub/rotate_display/blob/master/photos/appearance.JPG?raw=true)  
+![Appearance](https://github.com/moppii-hub/rotate_display/blob/master/photos/appearance.jpg?raw=true)  
 
 
 # BOM
@@ -26,8 +26,8 @@ Used an Arduino, a step-motor, and a motor-driver board(UNL2003A).
   - some GNDs(through power switch)
 - Print case
 - Assemble like this  
-![inside-bottomview](https://github.com/moppii-hub/rotate_display/blob/master/photos/inside_back.JPG?raw=true)  
-![inside-topview](https://github.com/moppii-hub/rotate_display/blob/master/photos/inside_top.JPG?raw=true)  
+![inside-bottomview](https://github.com/moppii-hub/rotate_display/blob/master/photos/inside_back.jpg?raw=true)  
+![inside-topview](https://github.com/moppii-hub/rotate_display/blob/master/photos/inside_top.jpg?raw=true)  
 - Finish!
 
 
